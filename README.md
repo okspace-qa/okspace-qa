@@ -10,7 +10,7 @@
 ![TestLink](https://img.shields.io/badge/TestLink-FCC715?style=for-the-badge&logo=testlink&logoColor=8cc4d7)
 ![DevTools](https://img.shields.io/badge/DevTools-FCC715?style=for-the-badge&logo=googlechrome&logoColor=5497DD)
 ![MySQL](https://img.shields.io/badge/MySQL-FCC715?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Github](https://img.shields.io/badge/Github-FCC715?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Github](https://img.shields.io/badge/Github-FCC715?style=for-the-badge&logo=github&logoColor=13A10E)
 ![Figma](https://img.shields.io/badge/Figma-FCC715?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 
 Testing Documentation
