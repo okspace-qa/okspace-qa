@@ -1,4 +1,4 @@
-[![Header](https://github.com/okspace-qa/okspace-qa/blob/main/Assets/Banner.png)
+![Header](https://github.com/okspace-qa/okspace-qa/blob/main/Assets/Banner.png)
 
 About Me
 
