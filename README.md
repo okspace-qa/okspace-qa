@@ -1,6 +1,6 @@
 ![Header](https://github.com/okspace-qa/okspace-qa/blob/main/Assets/Banner.png)
 
-About Me
+## Hello, I'm a begginer QA Engineer (QA Analyst, Software Tester).
 
 Languages and Tools
 
