@@ -13,6 +13,11 @@
 ![Github](https://img.shields.io/badge/Github-FCC715?style=for-the-badge&logo=github&logoColor=13A10E)
 ![Figma](https://img.shields.io/badge/Figma-FCC715?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 
-Testing Documentation
+### Testing Documentation
+
+- [Test-Plans](https://github.com/okspace-qa/Test-Plan)
+- [Checklists](https://github.com/okspace-qa/Checklists)
+- [Test-Cases](https://github.com/okspace-qa/Test-Cases)
+- [Bug-Reports](https://github.com/okspace-qa/Bug-Reports)
 
 Follow Me
