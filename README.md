@@ -24,6 +24,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-FCC715?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/oksana-tsvenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-FCC715?style=for-the-badge&logo=telegram&logoColor=0073b1)](https://t.me/okspace)
-[![Behance](https://img.shields.io/badge/Behance-FCC715?style=for-the-badge&logo=behance&logoColor=DB47BD)](https://t.me/okspace)
+[![Behance](https://img.shields.io/badge/Behance-FCC715?style=for-the-badge&logo=behance&logoColor=DB47BD)](https://www.behance.net/okspace)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okspace-qa&show_icons=true&theme=gruvbox&hide=contribs,prs,stars,issues)](https://github.com/anuraghazra/github-readme-stats)
